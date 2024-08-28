@@ -27,5 +27,6 @@
     "isolatedModules": true,
     "skipLibCheck": true
   },
+  "include": ["src", "types", "tests", "vite.config.ts"],
   "exclude": ["dist", "node_modules"]
 }
